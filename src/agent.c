@@ -10,7 +10,7 @@
  * the Axioma framework. Every state transition is committed to
  * the L6 audit ledger prior to in-memory mutation.
  *
- * Copyright (c) 2026 The Murray Family Innovation Trust
+ * Copyright (c) 2026 Spey Systems LTD
  * SPDX-License-Identifier: GPL-3.0-or-later
  * Patent: UK GB2521625.0
  *
