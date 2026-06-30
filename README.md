@@ -4,7 +4,7 @@
 
 [![DVEC](https://img.shields.io/badge/DVEC-v1.3-blue)](../axioma-spec/docs/dvec/)
 [![Determinism](https://img.shields.io/badge/Determinism-D2-green)](../axioma-spec/docs/dvec/)
-[![License](https://img.shields.io/badge/License-GPL--3.0-orange)](LICENSE)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-orange)](LICENSE)
 
 ## Overview
 
@@ -150,7 +150,7 @@ Results: 17/17 tests passed
 
 Copyright (c) 2026 Spey Systems LTD
 
-SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-License-Identifier: AGPL-3.0-or-later
 
 Patent: UK GB2521625.0
 

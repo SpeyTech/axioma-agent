@@ -6,7 +6,7 @@
 # MEMORY: Zero Dynamic Allocation
 #
 # Copyright (c) 2026 Spey Systems LTD
-# SPDX-License-Identifier: GPL-3.0-or-later
+# SPDX-License-Identifier: AGPL-3.0-or-later
 # Patent: UK GB2521625.0
 #
 # @traceability SRS-002-SHALL-018

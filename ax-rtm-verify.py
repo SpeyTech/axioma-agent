@@ -8,7 +8,7 @@ DVEC: v1.3 | SRS-002 v0.3
 Verifies that all public functions trace to SRS requirements.
 
 Copyright (c) 2026 Spey Systems LTD
-SPDX-License-Identifier: GPL-3.0-or-later
+SPDX-License-Identifier: AGPL-3.0-or-later
 Patent: UK GB2521625.0
 """
 
