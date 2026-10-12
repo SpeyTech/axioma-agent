@@ -669,7 +669,6 @@ static int test_totality_coverage(void)
     ax_health_state_t state;
     ax_input_class_t input_type;
     int total_pairs = 0;
-    int covered_pairs = 0;
     
     /* We can't easily run all transitions from a single context,
      * but we can verify the transition function is total by
@@ -691,7 +690,6 @@ static int test_totality_coverage(void)
                 return 0;
             }
             total_pairs++;
-            covered_pairs++;
         }
     }
     

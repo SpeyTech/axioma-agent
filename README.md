@@ -2,8 +2,8 @@
 
 **Layer 5 — Behavioural Agent** | Axioma Framework
 
-[![DVEC](https://img.shields.io/badge/DVEC-v1.3-blue)](../axioma-spec/docs/dvec/)
-[![Determinism](https://img.shields.io/badge/Determinism-D2-green)](../axioma-spec/docs/dvec/)
+[![DVEC](https://img.shields.io/badge/DVEC-v1.3-blue)](https://github.com/SpeyTech/axioma-spec/tree/main/docs)
+[![Determinism](https://img.shields.io/badge/Determinism-D2-green)](https://github.com/SpeyTech/axioma-spec/tree/main/docs)
 [![License](https://img.shields.io/badge/License-AGPL--3.0-orange)](LICENSE)
 
 ## Overview

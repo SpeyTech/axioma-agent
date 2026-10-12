@@ -156,6 +156,10 @@ add_executable(test_agent_totality tests/identity/test_agent_totality.c)
 target_link_libraries(test_agent_totality axioma-agent)
 add_test(NAME test_agent_totality COMMAND test_agent_totality)
 
+add_executable(test_agent_fsm_exhaustive tests/identity/test_agent_fsm_exhaustive.c)
+target_link_libraries(test_agent_fsm_exhaustive axioma-agent)
+add_test(NAME test_agent_fsm_exhaustive COMMAND test_agent_fsm_exhaustive)
+
 # ==============================================================================
 # CUSTOM TARGETS
 # ==============================================================================
