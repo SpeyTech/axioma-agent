@@ -19,7 +19,6 @@
 | DVEC Version | 1.3 |
 | Determinism Class | D2 — Constrained Deterministic |
 | Memory Model | Zero Dynamic Allocation |
-| Patent | UK GB2521625.0 |
 
 **D2 Constrained Deterministic** means:
 - Given identical initial state
@@ -151,8 +150,6 @@ Results: 17/17 tests passed
 Copyright (c) 2026 Spey Systems LTD
 
 SPDX-License-Identifier: AGPL-3.0-or-later
-
-Patent: UK GB2521625.0
 
 ## See Also
 
